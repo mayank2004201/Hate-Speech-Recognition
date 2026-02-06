@@ -1,0 +1,8 @@
+numpy 
+pandas
+tensorflow
+matplotlib
+seaborn
+nltk
+regex
+scki
